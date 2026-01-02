@@ -34,4 +34,3 @@ export interface IStockMovement extends Document {
 
   createdAt: Date
 }
-

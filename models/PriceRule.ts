@@ -64,4 +64,3 @@ export interface IPriceRule extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

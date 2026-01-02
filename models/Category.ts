@@ -31,4 +31,3 @@ export interface ICategory extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

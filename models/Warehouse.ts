@@ -21,4 +21,3 @@ export interface IWarehouse extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

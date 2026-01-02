@@ -45,4 +45,3 @@ export interface IOffer extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

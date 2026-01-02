@@ -15,4 +15,3 @@ export interface IWishlist extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

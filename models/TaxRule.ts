@@ -13,4 +13,3 @@ export interface ITaxRule extends Document {
   priority?: number
   isCompound?: boolean
 }
-

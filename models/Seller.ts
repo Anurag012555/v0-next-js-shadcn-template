@@ -31,4 +31,3 @@ export interface ISeller extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

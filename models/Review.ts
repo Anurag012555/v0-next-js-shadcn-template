@@ -23,4 +23,3 @@ export interface IReview extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

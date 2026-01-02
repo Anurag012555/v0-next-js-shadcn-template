@@ -68,4 +68,3 @@ export interface IProductVariant extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

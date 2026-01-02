@@ -61,4 +61,3 @@ export interface Dimension {
   weight?: number
   unit?: string // 'cm', 'in', 'kg', 'lb', etc.
 }
-

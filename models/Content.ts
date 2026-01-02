@@ -20,4 +20,3 @@ export interface IContent extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

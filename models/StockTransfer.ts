@@ -51,4 +51,3 @@ export interface IStockTransfer extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

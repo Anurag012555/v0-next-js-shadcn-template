@@ -45,4 +45,3 @@ export interface ICollection extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

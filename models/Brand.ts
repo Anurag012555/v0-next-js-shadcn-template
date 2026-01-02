@@ -10,4 +10,3 @@ export interface IBrand extends Document {
   description?: LocalizedString
   isActive?: boolean
 }
-

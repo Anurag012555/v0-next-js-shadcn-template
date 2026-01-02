@@ -28,4 +28,3 @@ export interface IDiscount extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

@@ -30,4 +30,3 @@ export interface IStockReservation extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

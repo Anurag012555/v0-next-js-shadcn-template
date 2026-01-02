@@ -11,4 +11,3 @@ export interface IAuditLog extends Document {
   changes?: Map<string, any> // Before/After Diff
   timestamp: Date // Auto-delete after 1 year
 }
-

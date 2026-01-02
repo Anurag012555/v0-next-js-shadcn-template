@@ -38,4 +38,3 @@ export interface IWarehouseInventory extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

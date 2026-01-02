@@ -85,4 +85,3 @@ export interface IOrder extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

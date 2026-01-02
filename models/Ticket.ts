@@ -31,4 +31,3 @@ export interface ITicket extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

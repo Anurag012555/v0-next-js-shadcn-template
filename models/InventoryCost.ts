@@ -49,4 +49,3 @@ export interface IInventoryCost extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

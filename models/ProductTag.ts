@@ -22,4 +22,3 @@ export interface IProductTag extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

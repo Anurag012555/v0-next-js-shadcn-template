@@ -70,4 +70,3 @@ export interface ICatalogProduct extends Document {
   createdAt: Date
   updatedAt: Date
 }
-

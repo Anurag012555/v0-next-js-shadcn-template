@@ -25,4 +25,3 @@ export interface IShippingTemplate extends Document {
   rates: ShippingRate[]
   isDefault?: boolean
 }
-
